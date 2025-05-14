@@ -53,15 +53,6 @@ docker-compose down
 - **Backend Image:** https://hub.docker.com/r/alaamelek2004/todo-list-backend
 - **Frontend Image:** https://hub.docker.com/r/alaamelek2004/todo-list-frontend
 
-## 👥 Team
-
-- **Alaa Melek**
-- **Tasneem Taha**
-- **Eman Mohamed**
-
-## 📝 Notes
-
-- Make sure ports 3000 and 8080 are free on your machine before running.
 
 ## ❓ How Can Someone Run the App from GitHub?
 
@@ -87,3 +78,13 @@ docker-compose up -d
 Open your browser and go to:
 - Frontend: http://localhost:8080
 - Backend API: http://localhost:3000/tasks
+
+## 👥 Team
+
+- **Alaa Melek**
+- **Tasneem Taha**
+- **Eman Mohamed**
+
+## 📝 Notes
+
+- Make sure ports 3000 and 8080 are free on your machine before running.
