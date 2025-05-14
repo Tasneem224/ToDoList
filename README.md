@@ -1,5 +1,6 @@
 # 📝 To-Do List Web Application
-![App Screenshot](assets/UI.png)
+
+![App Screenshot](asset/UI.png)
 
 ## 📌 Features
 - Add, update, delete, and view tasks.
@@ -16,59 +17,74 @@
 ## 🚀 How to Run the Application
 
 ### 1. Clone the Repository
+
 ```bash
 git clone https://github.com/alaamelek2004/todo-list.git
 cd todo-list
+```
 
-2. Prerequisites
+### 2. Prerequisites
+
 Make sure the following are installed on your system:
-Docker
-Docker Compose
-Git
+- Docker
+- Docker Compose
+- Git
 
-3. Run the Application
-```bash 
+### 3. Run the Application
+
+```bash
 docker-compose up -d
+```
 
-4. Access the Application
+### 4. Access the Application
+
 Open your browser and go to:
-Frontend: http://localhost:8080
-Backend API: http://localhost:3000/tasks (for testing via tools like Postman or curl)
+- Frontend: http://localhost:8080
+- Backend API: http://localhost:3000/tasks
 
-5. Stop the Application
-```bash 
+### 5. Stop the Application
+
+```bash
 docker-compose down
+```
 
-🐳 DockerHub Repositories
+## 🐳 DockerHub Repositories
 
-- **All Images:** [https://hub.docker.com/repositories/alaamelek2004](https://hub.docker.com/repositories/alaamelek2004)
-- **Backend Image:** [`alaamelek2004/todo-list-backend:v1.0.0`](https://hub.docker.com/r/alaamelek2004/todo-list-backend)
-- **Frontend Image:** [`alaamelek2004/todo-list-frontend:v1.0.0`](https://hub.docker.com/r/alaamelek2004/todo-list-frontend)
+- **All Images:** https://hub.docker.com/repositories/alaamelek2004
+- **Backend Image:** https://hub.docker.com/r/alaamelek2004/todo-list-backend
+- **Frontend Image:** https://hub.docker.com/r/alaamelek2004/todo-list-frontend
 
-👥 Team
-[Alaa Melek]
-[Tasneem Taha]
-[Eman mohamed]
+## 👥 Team
 
-📝 Notes
-Make sure ports 3000 and 8080 are free on your machine before running.
-ارفعي الـ README:
-لو كان موجود أو عدّلتيه، ارفعيه مع الكود:
-powershell
+- **Alaa Melek**
+- **Tasneem Taha**
+- **Eman Mohamed**
 
-❓ How Can Someone Run the App from GitHub?
+## 📝 Notes
 
-1.Clone the Repository:
-git clone https://github.com/Tasneem224/ToDoList
+- Make sure ports 3000 and 8080 are free on your machine before running.
+
+## ❓ How Can Someone Run the App from GitHub?
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/alaamelek2004/todo-list.git
 cd todo-list
+```
 
-2.Install Prerequisites:
+### 2. Install Prerequisites
+
 Ensure Docker, Docker Compose, and Git are installed.
 
-3.Run the App:
-docker-compose up -d
+### 3. Run the App
 
-4. Access the Application
+```bash
+docker-compose up -d
+```
+
+### 4. Access the Application
+
 Open your browser and go to:
-Frontend: http://localhost:8080
-Backend API: http://localhost:3000/tasks (for testing via tools like Postman or curl)
+- Frontend: http://localhost:8080
+- Backend API: http://localhost:3000/tasks
