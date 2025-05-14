@@ -1,7 +1,7 @@
 # 📝 To-Do List Web Application
 
-  ![App Screenshot](asset/UI.jpg)
-## 📌 Features
+  ![App Screenshot](assest/UI.jpg)
+  ## 📌 Features
 - Add, update, delete, and view tasks.
 - Filter tasks by priority, due date, and completion.
 - Modern UI with a simple design.
